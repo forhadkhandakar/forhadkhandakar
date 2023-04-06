@@ -32,4 +32,4 @@ You can click the Preview link to take a look at your changes.
 # Total View
 
 
-![Visitor Count](https://profile-counter.glitch.me/Moajjem404/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/forhadkhandakar/count.svg)
